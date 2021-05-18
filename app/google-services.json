@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057599694958",
+    "project_id": "fir-formativo",
+    "storage_bucket": "fir-formativo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057599694958:android:352e165c6df4d89e9ade7f",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057599694958-6k8bb45lmmuidvpc9jta4nhtm658omdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVh5tEcpSCphZcoERHSGUh1Pg1HZJYF2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057599694958-6k8bb45lmmuidvpc9jta4nhtm658omdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
